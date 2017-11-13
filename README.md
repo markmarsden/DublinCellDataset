@@ -7,7 +7,7 @@ Further details on this project can be found in our paper "People, Penguins and 
 
 ### Accessing Dataset
 
-dropbox link
+https://drive.google.com/drive/folders/1L5JHUr-Au3x9EaEGLOvxvZnHviG0TWaZ?usp=sharing
 
 ### Code and Models
 
