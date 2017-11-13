@@ -15,19 +15,3 @@ COMING SOON
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
